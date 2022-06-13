@@ -19,3 +19,4 @@ select
 from `analytics-engineers-club.coffee_shop.customers` customers
 left join customer_orders
   on customers.id = customer_orders.customer_id
+  
