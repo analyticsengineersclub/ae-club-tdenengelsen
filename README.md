@@ -3,3 +3,5 @@ Tim's portfolio.
 
 Here's a newer version of a new line.
 <!-- hello! merge conflict comment -->
+<!-- another comment for practicing rebase! -->
+
