@@ -1,4 +1,4 @@
---CTE's like this make SQL more readable, and more performant.
+--CTE's are more readable than subqueries because they better track SQL order of execution. They are also more performant
 with customer_orders as (
   select
     customer_id,
