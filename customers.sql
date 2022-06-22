@@ -1,3 +1,4 @@
+--CTE's like this make SQL more readable, and more performant.
 with customer_orders as (
   select
     customer_id,
